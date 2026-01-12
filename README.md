@@ -1,1 +1,1 @@
-# DGETI-Pedagogia-2026
+# DGETI-Pedagogía-2026
