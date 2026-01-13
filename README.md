@@ -6,3 +6,10 @@
   * Pedagogía Centrada en el Aprendizaje (PAC)
   * Marco Curricular Común de la Educación Media Superior (MCCEMS)
   * Introducción a la IA: Modelos de Clasificación
+
+* ## Sesión 2
+```13/01/2026```
+* Presentación
+  * El Enfoque Humanista en la Educación Técnica
+  * Enfoque por Competencias y Habilidades para la Vida (HVyT)
+  * Conceptos Centrales de la Educación para el Desarrollo Sostenible (COCEDS)
