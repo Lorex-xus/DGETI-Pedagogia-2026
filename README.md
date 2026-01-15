@@ -13,3 +13,12 @@
   * El Enfoque Humanista en la Educación Técnica
   * Enfoque por Competencias y Habilidades para la Vida (HVyT)
   * Conceptos Centrales de la Educación para el Desarrollo Sostenible (COCEDS)
+
+* ## Sesión 3
+```14/01/2026```
+* Presentación
+  * Metodologías activas
+    * Vinculación al contexto
+    * Metodología y Estrategias
+    * Vinculación disciplinar
+  * Aprendizaje Basado en Problemas (ABP)
